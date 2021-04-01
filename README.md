@@ -3,7 +3,7 @@
 <!--
 **emihhorn/emihhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:   --!>
 
 🔭 I’m currently working on ... MySQL
 🌱 I’m currently learning ...Ruby
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 😄 Pronouns: ...She, Her
 ⚡ Fun fact: ...I LOVE Photoshop and Photography
 
-![Github stats](https://github-readme-stats.vercel.app/api?emihhorn)
+
+
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
