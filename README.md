@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there&fontSize=90)
 
 
 
@@ -15,7 +16,6 @@
  - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
  -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20there&fontSize=90)
 
 
 <a href="https://www.buymeacoffee.com/emihhorn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" height="41" width="174"></a>
