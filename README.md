@@ -15,11 +15,13 @@
  - 📫 How to reach me: emilyhopehorn@gmail.com
  - 😄 Pronouns: She, Her
  - ⚡ Fun fact: I LOVE Photoshop!
- - <a href="https://www.buymeacoffee.com/emihhorn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn)](https://github.com/anuraghazra/github-readme-stats)
+
+  <a href="https://www.buymeacoffee.com/emihhorn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
