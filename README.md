@@ -20,7 +20,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn&theme=buefy&show_icons=true)
 
 
 
