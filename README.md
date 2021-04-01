@@ -12,13 +12,13 @@
 
  Here are some ideas to get you started:
 -->
- - 🔭 I’m currently working on MySQL
- - 🌱 I’m currently learning Ruby
+
  - 💬 Ask me about my portolio https://emihhorn.myportfolio.com
  - 📫 How to reach me: emilyhopehorn@gmail.com
  - 😄 Pronouns: She, Her
  - ⚡ Fun fact: I LOVE Photoshop!
- - 
+ - 🔭 I’m currently working on MySQL
+ - 🌱 I’m currently learning Ruby
 
 
 
