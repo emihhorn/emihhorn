@@ -13,12 +13,14 @@
  Here are some ideas to get you started:
 -->
 
- - 💬 Ask me about my portolio https://emihhorn.myportfolio.com
+ - :unicorn:Check out my portolio https://emihhorn.myportfolio.com
  - 📫 How to reach me: emilyhopehorn@gmail.com
  - 😄 Pronouns: She, Her
  - ⚡ Fun fact: I LOVE Photoshop!
  - 🔭 I’m currently working on MySQL
- - 🌱 I’m currently learning Ruby
+ - :octocat: I’m currently learning Ruby
+ 
+
 
 
 
