@@ -7,20 +7,25 @@
 - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emihhorn&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
  Here are some ideas to get you started:
 -->
  - 🔭 I’m currently working on MySQL
  - 🌱 I’m currently learning Ruby
- - 💬 Ask me about Behance
+ - 💬 Ask me about my portolio https://emihhorn.myportfolio.com
  - 📫 How to reach me: emilyhopehorn@gmail.com
  - 😄 Pronouns: She, Her
  - ⚡ Fun fact: I LOVE Photoshop!
+ - 
 
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn&theme=buefy&show_icons=true)
+
 
 
 
