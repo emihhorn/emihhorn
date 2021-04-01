@@ -19,7 +19,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn&theme=gotham&show_icons=true)
+
+
+
 
   <a href="https://www.buymeacoffee.com/emihhorn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
