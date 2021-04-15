@@ -15,15 +15,13 @@
 
  - :unicorn:Check out my portolio https://emihhorn.myportfolio.com
  - 📫 How to reach me: emilyhopehorn@gmail.com
- - 😄 Pronouns: She, Her
- - ⚡ Fun fact: I LOVE Photoshop!
  - 🔭 I’m currently working on MySQL
- - :octocat: I’m currently learning Ruby
+ - ⚡ Fun fact: I LOVE Photoshop!
+ - :octocat: I’m currently learning Ruby 
+ - 😄 Pronouns: She, Her
  
-
-
-
-
+ 
+ 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihhorn&theme=buefy&show_icons=true)
