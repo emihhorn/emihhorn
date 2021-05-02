@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there👋&fontSize=90)
+![header](https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif)
 
 
 
  <!--
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there👋&fontSize=90)
  **emihhorn/emihhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ...
@@ -20,7 +21,7 @@
  - :octocat: I’m currently learning Ruby 
  - 😄 Pronouns: She, Her
  
- 
+
  
 
 
