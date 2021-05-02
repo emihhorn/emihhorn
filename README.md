@@ -1,4 +1,4 @@
-![header](https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif)
+<img src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif" height="200">
 
 
 
