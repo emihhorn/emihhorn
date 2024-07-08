@@ -21,7 +21,7 @@
  - 📫 How to reach me: emilyhopehorn@gmail.com
  - 🔭 I’m currently working on MySQL
  - ⚡ Fun fact: I LOVE Photoshop!
- - :octocat: I’m currently learning Ruby 
+ - :octocat: I’m currently using gen Ai 
  - 😄 Pronouns: She, Her
  
 
